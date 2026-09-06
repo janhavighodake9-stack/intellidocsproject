@@ -1,0 +1,9 @@
+Flask
+Flask-JWT-Extended
+mysql-connector-python
+PyJWT
+pypdf
+python-dotenv
+PyMuPDF
+gunicorn
+python-docx
